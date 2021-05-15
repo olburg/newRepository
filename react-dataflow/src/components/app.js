@@ -20,3 +20,5 @@ export default ( {id, counter, increaseHandle, decreaseHandle}  ) => {
   </div>
   );
 };
+
+// const react
